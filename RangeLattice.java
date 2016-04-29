@@ -1,6 +1,6 @@
 import java.util.*;
 
-class FenwickLattice {
+class RangeLattice {
   public static void main(String[] args) {
     int num = 10;
     int dim = 2;
